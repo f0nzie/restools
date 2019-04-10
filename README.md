@@ -1,1 +1,4 @@
-restools_project
+# restools package
+Basic Eclipse reservoir simulator binary reader.
+
+
