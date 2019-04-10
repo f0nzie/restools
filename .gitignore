@@ -6,3 +6,9 @@
 *.log
 
 *.html
+
+build/
+
+dist/
+
+restools\.egg-info/
